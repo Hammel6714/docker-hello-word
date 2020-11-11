@@ -1,4 +1,3 @@
-
 #!/bin/bash
 echo -e "---------------------------"
 echo -e "This is the post-build test"
